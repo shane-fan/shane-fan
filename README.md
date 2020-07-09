@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**shane-fan/shane-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shane Fan 
+Hi, I'm Shane—a senior at UC Berkeley!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About me
+- 🔭 I’m currently working on a cool project
+- 🌱 I’m currently learning Cloud
+- 👯 I’m looking to collaborate on startup projects
+- 🤔 I’m looking for help with VC funding
+- 💬 Ask me about Cloud Computing
+- 📫 How to reach me: sfan@berkeley.edu
+- ⚡ Fun fact: I like rock climbing
 -->
+
