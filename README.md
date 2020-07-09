@@ -11,5 +11,5 @@ Hi, I'm Shane—a senior at UC Berkeley!
 - 💬 Ask me about Cloud Computing
 - 📫 How to reach me: sfan@berkeley.edu
 - ⚡ Fun fact: I like rock climbing
--->
+
 
