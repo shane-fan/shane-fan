@@ -1,9 +1,9 @@
 ### About Me
-Hi, I'm Shane. I'm a senior at UC Berkeley, class of 2021.
+Hi, I'm Shane :)
 
-I'm currently 17 years old, and I have three associates degrees! I really like coding and pursue it as a hobby. In my free time, I rock climb, play the piano, and work on random projects :p
+I'm currently 17 years old, and I really enjoy coding and pursue it as a hobby. In my free time, I rock climb, play the piano, and work on random projects :p
 
-My current interests include cloud computing, 19th century English lit, and blockchain!
+My current interests include cloud computing, 19th century English lit, and blockchain
 
 
 ### Contact
