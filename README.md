@@ -1,5 +1,5 @@
 ### About Me
-Hi! I'm Shane, a recent [UC Berkeley](https://berkeley.edu) English + EECS grad who is currently working on a stealth startup! My interests include cloud computing, machine learning, and entrepreneurship. Follow me on instagram [@shanefanx](https://instagram.com/shanefanx)!
+Hi! I'm Shane, a recent [UC Berkeley](https://berkeley.edu) English + EECS grad, and I am currently working on a stealth startup! My interests include cloud computing, machine learning, and entrepreneurship. Follow me on instagram [@shanefanx](https://instagram.com/shanefanx)!
 
 ### Contact
 Email: sfan@berkeley.edu
